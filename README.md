@@ -1,1 +1,3 @@
-# xebia
+# maven-project
+
+Simple Maven Project
